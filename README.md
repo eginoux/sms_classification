@@ -4,7 +4,7 @@ This repository contains a Jupyter Notebook that demonstrates text classificatio
 
 Text classification is a fundamental task in NLP, with applications ranging from sentiment analysis and spam detection to topic categorization. This project provides a practical example of building and evaluating a text classification model. 
 
-This project is a part of the FreeCodeCamp challenges from the [Machine Learning with Python]([url](https://www.freecodecamp.org/learn/machine-learning-with-python/)) course.
+This project is a part of the FreeCodeCamp challenges from the Machine Learning with Python course: https://www.freecodecamp.org/learn/machine-learning-with-python
 
 ## Introduction
 Text classification involves assigning predefined categories or labels to text documents based on their content. In this notebook, we explore the process of building a text classification model for SMS messages. 
